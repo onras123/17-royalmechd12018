@@ -1,0 +1,18 @@
+a=int(input("type a result"))
+if(a>90):
+    print("A+")
+elif(a>=80):
+    print("A")
+elif(a>=70):
+    print ("B+")
+elif(>=60):
+	print ("B")
+elif(>=60):
+	print ("C")
+else:
+	print ("fail")
+
+
+
+
+ 
