@@ -1,0 +1,39 @@
+dl117@soetcse:~/suri$ python3  randit.py
+your choice s/p/r: papper
+you chose: papper computer chose: rock
+you win
+your choice s/p/r: scissor
+you chose: scissor computer chose: scissor
+draw!
+your choice s/p/r: rock
+you chose: rock computer chose: papper
+you lose!
+your choice s/p/r: papper
+you chose: papper computer chose: rock
+you win
+your choice s/p/r: papper
+you chose: papper computer chose: rock
+you win
+your choice s/p/r: scissor
+you chose: scissor computer chose: scissor
+draw!
+your choice s/p/r: rock
+you chose: rock computer chose: papper
+you lose!
+your choice s/p/r: papper
+you chose: papper computer chose: scissor
+you lose!
+your choice s/p/r: scissor
+you chose: scissor computer chose: scissor
+draw!
+your choice s/p/r: scissor
+you chose: scissor computer chose: papper
+you win
+your choice s/p/r: papper
+you chose: papper computer chose: rock
+you win
+your choice s/p/r: scissor
+you chose: scissor computer chose: rock
+you lose
+your choice s/p/r: 
+
